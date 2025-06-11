@@ -1,3 +1,11 @@
+*COMPANY*: CODSOFT
+
+*NAME*: NARASIMHA MANAM
+
+*INTERN ID*: CS25RY53938
+
+*DOMAIN*: WEB DEVELOPMENT
+
 
 # 🌱 EcoNest – Smart Home for Sustainable Living
 
